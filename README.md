@@ -3,7 +3,6 @@ Proyecto de la asignatura **Énfasis II – Diseño de Componentes** (Universida
 
 > PCB + esquemáticos (EasyEDA) + modelo 3D de la carcasa (Fusion 360) para un sistema de medición de temperatura y humedad con precisión suficiente para conservar compuestos farmacéuticos en condiciones óptimas.
 
-![Render 3D](docs/img/render.png)
 
 ---
 
