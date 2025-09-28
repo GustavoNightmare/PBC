@@ -13,14 +13,6 @@ Proyecto de la asignatura **Énfasis II – Diseño de Componentes** (Universida
 - [Hardware](#hardware)
 - [Diseño PCB y esquemáticos](#diseño-pcb-y-esquemáticos)
 - [Carcasa y modelo 3D](#carcasa-y-modelo-3d)
-- [Firmware (opcional)](#firmware-opcional)
-- [Montaje y puesta en marcha](#montaje-y-puesta-en-marcha)
-- [Calibración](#calibración)
-- [BOM — Lista de materiales](#bom--lista-de-materiales)
-- [Estructura del repositorio](#estructura-del-repositorio)
-- [Licencia](#licencia)
-- [Autores](#autores)
-- [Agradecimientos](#agradecimientos)
 
 ---
 
